@@ -22,7 +22,7 @@ function checkBirthday() {
     const error = document.getElementById("errorMessage");
 
     if (day === correctDay && month === correctMonth) {
-        window.location.href = "https://mosev1474.github.io/SOFTY/";
+        window.location.href = "https://iim1mosev.github.io/SOFTY/";
     } else {
         error.innerText = "اي يحسونه نسيتي وله اي 🤨";
     }
